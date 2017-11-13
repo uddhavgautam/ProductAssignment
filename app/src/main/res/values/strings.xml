@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ProductAssignment</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_log_in">Log-in</string>
+    <string name="action_log_out">Log-out</string>
+    <string name="action_about">About</string>
+
 </resources>
